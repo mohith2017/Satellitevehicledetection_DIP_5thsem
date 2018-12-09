@@ -29,7 +29,7 @@ Language used: Python
 
 <br/>
 # Current limitations:
-  1)Blob detection is not fine tuned to specifically cars
+  1)Blob detection is not fine tuned to specifically cars<br/>
   2)Number of cars not shown 
   
   <br/>
