@@ -9,8 +9,28 @@ Language used: Python
 2) numpy
 3) scipy
   
-# Input exapmle1:
+# Input example1:
 ![Satellite parking lot image](https://github.com/mohith2017/Satellitevehicledetection_DIP_5thsem/blob/master/image.jpg)
 
 # Output example1:
+![Satellite parking lot image](https://github.com/mohith2017/Satellitevehicledetection_DIP_5thsem/blob/master/image_final_ex1.jpg)
+
+<br/>
+
+# Input example2:
+![Satellite parking lot image](https://github.com/mohith2017/Satellitevehicledetection_DIP_5thsem/blob/master/y.jpg)
+
+# Output example2:
 ![Satellite parking lot image](https://github.com/mohith2017/Satellitevehicledetection_DIP_5thsem/blob/master/image_final.jpg)
+
+
+Document referred:
+[Satellite_detection.pdf](https://pdfs.semanticscholar.org/e060/7f93de4cb3c408cd156769ddb4d2d105e873.pdf)
+
+# Current limitations:
+  1)Blob detection is not fine tuned to specifically cars
+  2)Number of cars not shown 
+  
+  <br/>
+
+</> by [Mohith](https://github.com/mohith2017)
