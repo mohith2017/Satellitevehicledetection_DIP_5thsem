@@ -23,10 +23,11 @@ Language used: Python
 # Output example2:
 ![Satellite parking lot image](https://github.com/mohith2017/Satellitevehicledetection_DIP_5thsem/blob/master/image_final.jpg)
 
-
-Document referred:
+<br/>
+# Document referred:
 [Satellite_detection.pdf](https://pdfs.semanticscholar.org/e060/7f93de4cb3c408cd156769ddb4d2d105e873.pdf)
 
+<br/>
 # Current limitations:
   1)Blob detection is not fine tuned to specifically cars
   2)Number of cars not shown 
