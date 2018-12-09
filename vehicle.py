@@ -30,24 +30,9 @@ vehicle_floodfill_inv = cv2.bitwise_not(vehicle_floodfill)
 ####################################################
 
 ####################################################Blob detection 
-
-# Setup SimpleBlobDetector parameters.
-params = cv2.SimpleBlobDetector_Params()
-
-# Filter by Area.
-params.filterByArea = True
-params.minArea = 1500
- 
-# Filter by Circularity
-params.filterByCircularity = True
-params.minCircularity = 0.1
-
-# Filter by Inertia
-params.filterByInertia = True
-params.minInertiaRatio = 0.01
  
 # Set up the detector with default parameters.
-detector = cv2.SimpleBlobDetector_create(params)
+detector = cv2.SimpleBlobDetector_create()
 
 # Detect blobs.
 keypoints = detector.detect(vehicle_floodfill)
