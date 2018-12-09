@@ -9,6 +9,8 @@ Language used: Python
 2) numpy
 3) scipy
   
-# Input image:
-![Satellite parking lot image]()
+# Input exapmle1:
+![Satellite parking lot image](https://github.com/mohith2017/Satellitevehicledetection_DIP_5thsem/blob/master/image.jpg)
 
+# Output example1:
+![Satellite parking lot image](https://github.com/mohith2017/Satellitevehicledetection_DIP_5thsem/blob/master/image_final.jpg)
